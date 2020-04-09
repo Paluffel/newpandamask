@@ -69,9 +69,9 @@ libraryActors.push(MRE.Actor.CreateFromLibrary(this.context, {
                //@ts-ignore
                    buttonBehavior.onClick((user: User) => {        const libraryActors: MRE.Actor[] = [];
                     const model = Actor.CreateFromLibrary(this.context, {
-                        resourceId: "artifact: 1444228155278623040",
+                        resourceId: "artifact: 1442996266341499278",
                         actor: {
-                            name: 'Testp$',
+                            name: 'Pandmas4',
                             transform: {local:{
                                 position: { x: 0, y: -0.025, z: 0.1 },
                                 scale: { x: 40, y: 40, z: 40}
