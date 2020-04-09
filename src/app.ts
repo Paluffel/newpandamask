@@ -50,9 +50,9 @@ export default class HelloWorld {
 // AltspaceVR resource IDs from https://account.altvr.com/kits/
 const libraryActors: MRE.Actor[] = [];
 libraryActors.push(MRE.Actor.CreateFromLibrary(this.context, {
-    resourceId: "artifact: 1268272832299664334",
+    resourceId: "artifact: 1442996266341499278",
     actor: {
-        name: 'P4ndam4sk2 00',
+        name: 'Pandmas4',
                             transform: {local:{
                                 position: { x: 0, y: 0, z: 0 },
                                 scale: { x: 40, y: 40, z: 40}
